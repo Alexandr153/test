@@ -1,3 +1,7 @@
+print('test1')
+
 print('hello')
 
-print('ewrewt')
+print('oke')
+
+print('testing')
