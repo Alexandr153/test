@@ -2,7 +2,7 @@ print('test1')
 
 print('hello')
 
-
-print('no')
+print('lox')
+print('yes')
 
 print('oke')
